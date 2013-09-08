@@ -1,0 +1,15 @@
+{
+  "name": "source-code-regular",
+  "repo": "typefaces/source-code-regular",
+  "description": "Source Code Regular",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "fonts": [
+    "fonts/source-code-regular.eot",
+    "fonts/source-code-regular.ttf",
+    "fonts/source-code-regular.woff"
+  ]
+}
