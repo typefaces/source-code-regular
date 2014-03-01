@@ -1,10 +1,9 @@
-
 @font-face {
   font-family: 'Source Code';
-  src: url('source-code-regular.eot');
-  src: url('source-code-regular.eot?#iefix') format('embedded-opentype'),
-       url('source-code-regular.woff') format('woff'),
-       url('source-code-regular.ttf') format('truetype');
+  src: url('fonts/source-code-regular.eot');
+  src: url('fonts/source-code-regular.eot?#iefix') format('embedded-opentype'),
+       url('fonts/source-code-regular.woff') format('woff'),
+       url('fonts/source-code-regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
